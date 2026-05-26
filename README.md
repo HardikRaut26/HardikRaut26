@@ -14,4 +14,4 @@ Hi, I'm Hardik Raut, a Full-Stack Developer and B.E. Information Technology stud
 ---
 [![](https://komarev.com/ghpvc/?username=HardikRaut26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   see privet commits are on still not adding
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
